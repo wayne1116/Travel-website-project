@@ -19,4 +19,4 @@ Here is travel web source code!!
 # Attraction information
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Attraction.png)
 # Food information
-
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Food.png)
