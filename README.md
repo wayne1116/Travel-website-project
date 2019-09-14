@@ -8,3 +8,6 @@ Here is travel web source code!!
 # Translation
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/translation_feature.png)
 
+# Navigation
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation1.png)
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation.png)
