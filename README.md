@@ -17,6 +17,6 @@ Here is travel web source code!!
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Travel1.png)
 
 # Attraction information
-
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Attraction.png)
 # Food information
 
