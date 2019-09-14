@@ -1,22 +1,39 @@
 # Travel Web Project 
 Here is travel web source code!!
-# Menu
+
+---
+
+***Menu***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Menu.png)
-# Home
+
+---
+
+***Home***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Home.png)
 
-# Translation
+---
+
+***Translation***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/translation_feature.png)
 
-# Navigation
+---
+
+***Navigation***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation1.png)
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation2.png)
 
-# Transportation information
+---
+
+***Transportation information***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Travel.png)
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Travel1.png)
 
-# Attraction information
+---
+
+***Attraction information***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Attraction.png)
-# Food information
+
+---
+
+***Food information***
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Food.png)
