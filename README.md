@@ -3,7 +3,7 @@ Here is travel web source code!!
 # Menu
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Menu.png)
 # Home
-![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Home1.png)
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Home.png)
 
 # Translation
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/translation_feature.png)
@@ -12,7 +12,11 @@ Here is travel web source code!!
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation1.png)
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation2.png)
 
-# Transportation imformation
+# Transportation information
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Travel.png)
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Travel1.png)
+
+# Attraction information
+
+# Food information
 
