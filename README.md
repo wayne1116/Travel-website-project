@@ -5,3 +5,6 @@ Here is travel web source code!!
 # Home
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Home1.png)
 
+# Translation
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/translation_feature.png)
+
