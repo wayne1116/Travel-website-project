@@ -10,4 +10,4 @@ Here is travel web source code!!
 
 # Navigation
 ![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation1.png)
-![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation.png)
+![image](https://github.com/wayne1116/travel_web/blob/master/Picture/Navigation2.png)
